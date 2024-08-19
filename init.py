@@ -1,1 +1,1 @@
-print(">>>>Test Python ")
+print(">>>>Uso de pip")
